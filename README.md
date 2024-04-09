@@ -1,16 +1,14 @@
-# valencia_ex6
+# Exercise 6: State Management
 
-A new Flutter project.
+### Shopping Cart with Checkout
 
-## Getting Started
+**Name:** Millaizha Airabellha Valencia
 
-This project is a starting point for a Flutter application.
+**Section:** UV4L
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#### Challenge encountered:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+As this was an asynchronous exercise, I had a hard time understanding the lesson. I referred to other resources to finish this exercise.
+
